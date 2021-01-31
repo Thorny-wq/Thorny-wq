@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+my name thorny guy, i like to code and stuff
+sub to alan lol
 <!--
 **Thorny-wq/Thorny-wq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
